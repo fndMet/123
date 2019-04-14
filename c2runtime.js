@@ -19960,6 +19960,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetSize,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.plugins_.Sprite.prototype.cnds.IsVisible,
+	cr.plugins_.Touch.prototype.cnds.OnDoubleTapGestureObject,
+	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 	cr.plugins_.Sprite.prototype.acts.SetScale
 ];};
 
