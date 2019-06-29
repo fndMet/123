@@ -1,8 +1,8 @@
 ﻿{
-	"name": "supermap",
-	"short_name": "supermap",
+	"name": "superdesktop",
+	"short_name": "superdesktop",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
