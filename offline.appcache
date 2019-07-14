@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1563042905
+#1563061116
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,7 +9,7 @@ images/аватар-sheet0.png
 images/текст-sheet0.png
 images/текст-sheet1.png
 images/текст-sheet2.png
-images/обновить-sheet0.png
+images/сброс-sheet0.png
 images/билет-sheet0.png
 images/мышь-sheet0.png
 images/очки-sheet0.png
@@ -26,6 +26,7 @@ images/спписьмо-sheet0.png
 images/карта-sheet0.png
 images/спойлерфрейм-sheet0.png
 images/спойлерфрейм-sheet1.png
+images/спойлерфрейм-sheet2.png
 images/фоновые1-sheet0.png
 images/спбрелок-sheet0.png
 images/спгазета-sheet0.png
@@ -71,6 +72,20 @@ images/криптоклип-sheet2.png
 images/криптоклип-sheet3.png
 images/шазам-sheet0.png
 images/шазамдальше1-sheet0.png
+images/кнопкаинстр-sheet0.png
+images/кнопкаинстр-sheet1.png
+images/представление0-sheet0.png
+images/представление1-sheet0.png
+images/представление2-sheet0.png
+images/представление3-sheet0.png
+images/представление4-sheet0.png
+images/представление5-sheet0.png
+images/представление6-sheet0.png
+images/представление7-sheet0.png
+images/представление8-sheet0.png
+images/представление9-sheet0.png
+images/представление10-sheet0.png
+images/представление11-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
